@@ -1,4 +1,4 @@
-# Android-Object-Detection
+# Android Object Detection
 
-Android implementation of object detection using OpenCV Edit
+Android implementation of object detection using OpenCV 
 
